@@ -6,7 +6,7 @@ Day 2. One paragraph each, each tied to a real condition.
 
 Identity 1:
 
-Name: Roman  
+Name: Hayat  
 Time: Present  
 Place: Dhaka  
 Role: Urban Planner
@@ -15,7 +15,7 @@ Role: Urban Planner
 
 Identity 2:
 
-Name: Aayesha  
+Name: Aditi  
 Time: Present  
 Place: India  
 Role: College Student
@@ -24,7 +24,7 @@ Role: College Student
 
 Identity 3:
 
-Name: Ivy  
+Name: Aurora  
 Time: Future  
 Place: Sejong  
 Role: Resident
